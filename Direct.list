@@ -2,7 +2,7 @@
 
 # MyList
 # 域名后缀匹配
-#DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,chenjian.home
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,baidu
