@@ -3,10 +3,20 @@
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,chenjian.home
-
+#B站视频
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,bilivideo.com
 # 域名关键字匹配
 #DOMAIN-KEYWORD,baidu
-
+DOMAIN-KEYWORD,upos
+DOMAIN-KEYWORD,mirrorali
+DOMAIN-KEYWORD,mirrorhw
+DOMAIN-KEYWORD,mirrorwcs
+DOMAIN-KEYWORD,mirrorks3
+DOMAIN-KEYWORD,bvc
+DOMAIN-KEYWORD,biliplayer
+DOMAIN-KEYWORD,bili
 # IP段匹配
 #IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,219.146.1.66/32,no-resolve
