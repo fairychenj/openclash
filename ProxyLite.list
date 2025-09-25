@@ -4,6 +4,7 @@
 #DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,rust-lang.org
 DOMAIN-SUFFIX,exploit-db.com
+DOMAIN-SUFFIX,synology.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,google
